@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/swf_dl.py
-	```
+```
+src/swf_dl.py
+```
 
 ## Authors
 
